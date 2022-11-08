@@ -1,1 +1,1 @@
-# learningdigest101
+Place to learn more on emerging technologies!
