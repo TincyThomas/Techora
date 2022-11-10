@@ -1,3 +1,3 @@
 # MACHINE LEARNING
 
-![Test Image 3](/Machine%20Learning/images/machine-learning.png)
+![Test Image 3](/Machine%20Learning/images/machine-learning.png =50x50)
