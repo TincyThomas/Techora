@@ -15,6 +15,7 @@
 
 <p><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"  width="70" height="15"/>  Coursera courses </p>
 
-| Course Name                                                                                     | Link                                                                                        |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Machine Learning Specialization (by DeepLearning.AI logo DeepLearning.AI & Stanford University) | [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
+| Course Name                                                                | Link                                                                                          |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Machine Learning Specialization (by DeepLearning.AI & Stanford University) | [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)   |
+| IBM Machine Learning Professional Certificate                              | [IBM Specialization](https://www.coursera.org/professional-certificates/ibm-machine-learning) |
