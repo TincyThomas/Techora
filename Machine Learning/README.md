@@ -13,7 +13,7 @@
 
 <br><br>
 
-<p><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"  width="60" height="20"/>  Coursera courses </p>
+<p><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"  width="50" height="20"/>  Coursera courses </p>
 
 | Course Name                                                                                     | Link                                                                                        |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
