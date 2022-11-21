@@ -15,9 +15,6 @@
 
 <p><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"  width="60" height="20"/>  Coursera courses </p>
 
-| Course Name | Link |
-| ----------- | ---- |
-
-| Machine Learning Specialization (by
-DeepLearning.AI logo
-DeepLearning.AI & Stanford University) | [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
+| Course Name                                                                                     | Link                                                                                        |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Machine Learning Specialization (by DeepLearning.AI logo DeepLearning.AI & Stanford University) | [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
