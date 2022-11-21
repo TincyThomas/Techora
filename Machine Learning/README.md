@@ -1,6 +1,6 @@
 # MACHINE LEARNING <img src="https://github.com/TincyThomas/learningdigest101.github.io/blob/main/Machine%20Learning/images/machine-learning.png" height="60" width="60" >
 
-<p> Interesting courses covering Machine Learning     <img src="https://github.com/TincyThomas/learningdigest101.github.io/blob/main/Machine%20Learning/images/you.png" height="25" width="25" ></p>
+<p> Interesting courses covering Machine Learning <img src="https://github.com/TincyThomas/learningdigest101.github.io/blob/main/Machine%20Learning/images/youtube.png" height="25" width="25" ></p>
 
 | Website name and description | Link                                                                                                                                                 |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
