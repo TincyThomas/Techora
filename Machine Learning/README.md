@@ -11,4 +11,4 @@
 | freeCodeCamp.org             | [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc)                                                                 |
 | sentdex                      | [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)                                             |
 
-<p><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"  width="60" height="10"/>Coursera courses </p>
+<p><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"  width="60" height="20"/> Coursera courses </p>
