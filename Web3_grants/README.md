@@ -8,7 +8,7 @@
 
 Alchemy is web3 developer tooling platform and node provider, powering companies like OpenSea, Meta, Shopify, etc.
 Their WAGBI program offers developers up to $50,000 in credits. <br>
-<img src="Web3_grants/images/alchemy.jpg">
+<img src="images/alchemy.jpg">
 [Alchemy](https://www.alchemy.com/developer-grant-program)
 
 <!-- | | [NoDesk](https://nodesk.co/remote-jobs/) | -->
