@@ -19,3 +19,5 @@
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Machine Learning Specialization (by DeepLearning.AI & Stanford University) | [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)   |
 | IBM Machine Learning Professional Certificate                              | [IBM Specialization](https://www.coursera.org/professional-certificates/ibm-machine-learning) |
+
+|
